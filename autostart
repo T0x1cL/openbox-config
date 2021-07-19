@@ -14,9 +14,10 @@
 
 # If you want to use XFCE config tools...
 #
-xfce-mcs-manager &
+#xfce-mcs-manager &
+
 xfce4-panel &
-redshift-gtk &
+redshift&
 nm-applet &
 nitrogen --restore &
 pulseaudio &
