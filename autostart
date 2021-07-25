@@ -17,11 +17,12 @@
 #xfce-mcs-manager &
 
 xfce4-panel &
-redshift&
+redshift-gtk &
 nm-applet &
 nitrogen --restore &
 pulseaudio &
-xcompmgr &
+#xcompmgr &
+picom &
 polkit-gnome &
 /usr/lib/xfce4/notifyd/xfce4-notifyd &
 qbittorrent &
