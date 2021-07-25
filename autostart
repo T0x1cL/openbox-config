@@ -22,7 +22,7 @@ nm-applet &
 nitrogen --restore &
 pulseaudio &
 #xcompmgr &
-picom &
+#picom &
 polkit-gnome &
 /usr/lib/xfce4/notifyd/xfce4-notifyd &
 qbittorrent &
